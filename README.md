@@ -1,4 +1,4 @@
-![LJol_6EzoAwl3jIq6-4tw4xTsuuW1ZtfdDzQdoH1LFU](https://user-images.githubusercontent.com/76882345/132002561-b20ac0e2-685f-432b-8a0d-54c3b508432b.gif)
+![248e47a848da59d73bd1b58b34b65a7c](https://user-images.githubusercontent.com/76882345/132002613-138933d5-539f-41ce-a4b9-1e00ca61df0b.gif)
 
 • 👋👩 Hi, I’m @CaroD59, nice to meet you !
 
