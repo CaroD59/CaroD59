@@ -1,3 +1,6 @@
+![LJol_6EzoAwl3jIq6-4tw4xTsuuW1ZtfdDzQdoH1LFU](https://user-images.githubusercontent.com/76882345/132002464-8fe8937c-a17e-4528-84be-7791b9c4f6a5.gif)
+
+
 • 👋👩 Hi, I’m @CaroD59, nice to meet you !
 
 • 🪁 I'm interested in 💻, 🎞, 🎮, 🎤, ♟, 🐾 and 📚 !
