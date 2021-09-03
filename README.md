@@ -1,4 +1,4 @@
-![K4tVUut](https://user-images.githubusercontent.com/76882345/132002505-e4061379-a0ed-4c3d-8b6d-55d1f3423528.gif)
+![248e47a848da59d73bd1b58b34b65a7c](https://user-images.githubusercontent.com/76882345/132002537-16259072-c5b9-4f06-9aa2-60ea2300ba6c.gif)
 
 • 👋👩 Hi, I’m @CaroD59, nice to meet you !
 
