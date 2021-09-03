@@ -1,4 +1,4 @@
-![248e47a848da59d73bd1b58b34b65a7c](https://user-images.githubusercontent.com/76882345/132002613-138933d5-539f-41ce-a4b9-1e00ca61df0b.gif)
+![waneella-pixel-art](https://user-images.githubusercontent.com/76882345/132002651-922eb752-61bb-42ff-ac17-75e326292915.gif)
 
 • 👋👩 Hi, I’m @CaroD59, nice to meet you !
 
