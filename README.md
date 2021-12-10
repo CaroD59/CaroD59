@@ -1,4 +1,6 @@
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<img  src="https://profile-counter.glitch.me/username/count.svg" />
 
 • 👋👩 Hi, I’m @CaroD59, nice to meet you !
 
@@ -10,9 +12,15 @@
 
 • 📫 How to reach me? You can send me an email to: dorchies.c@gmail.com, or a message on my Linkedin here: https://www.linkedin.com/in/dorchies-c/.
 
-<img  src="https://profile-counter.glitch.me/username/count.svg" />
+
+<h2 align="center">Github stats :bar_chart:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroD59&layout=compact&theme=aura&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroD59&theme=dark&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CaroD59&theme=dark">
 
+
+<h2 align="center">Look at this snake eating up my contributions!</h2>
+<img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/CaroD59/CaroD59/blob/output/github-contribution-grid-snake.gif)
