@@ -11,4 +11,4 @@
 • 📫 How to reach me? You can send me an email to: dorchies.c@gmail.com, or a message on my Linkedin here: https://www.linkedin.com/in/dorchies-c/.
 
 
-[![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroD59)](https://github.com/CaroD59/github-readme-stats)
+[![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroD59&theme=dark&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
