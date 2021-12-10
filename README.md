@@ -18,9 +18,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroD59&layout=compact&theme=aura&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroD59&theme=dark&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CaroD59&theme=dark">
-
-
-<h2 align="center">Look at this snake eating up my contributions!</h2>
-<img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/CaroD59/CaroD59/blob/output/github-contribution-grid-snake.gif)
