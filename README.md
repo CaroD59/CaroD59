@@ -1,4 +1,4 @@
-![waneella-pixel-art](https://user-images.githubusercontent.com/76882345/132002651-922eb752-61bb-42ff-ac17-75e326292915.gif)
+### Hi there, I'm [Caroline Dorchies](https://durgeshsamariya.github.io) 👋
 
 • 👋👩 Hi, I’m @CaroD59, nice to meet you !
 
