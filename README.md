@@ -6,9 +6,9 @@
 
 <h2><u><b>⭐ My Knowledges</b></u></h2>
 
-<h3 align="center">Languages</h3>
+<h3>Languages</h3>
 
-<p align="center">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -27,9 +27,9 @@
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3>Frontend</h3>
 
-<p align="center">
+<p>
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -44,9 +44,9 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3>Backend</h3>
 
-<p align="center">
+<p>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -57,16 +57,16 @@
   </a>
 </p>
 
-<h3 align="center">Database</h3>
+<h3>Database</h3>
 
-<p align="center">
+<p>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h3>Version Control & CI/CD</h3>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
@@ -86,9 +86,9 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3>Preferred IDEs  & Tools :</h3>
 
-<p align="center"> 
+<p> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
 </p>
