@@ -1,11 +1,8 @@
 <h2>⭐ Github stats :bar_chart:</h2>
 
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroD59&layout=compact&theme=aura&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroD59&theme=dark&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CaroD59&theme=dark">
-</p>
-
 
 <h2 align="center"><u><b>My Knowledges</b></u></h2>
 
