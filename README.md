@@ -105,6 +105,8 @@
   </div>
 </div>
 
+----
+
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center">
