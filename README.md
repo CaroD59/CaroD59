@@ -1,11 +1,12 @@
 ![LJol_6EzoAwl3jIq6-4tw4xTsuuW1ZtfdDzQdoH1LFU](https://user-images.githubusercontent.com/76882345/146372766-bd655476-b4df-48c2-bf25-a25ef2b9bd24.gif)
-<h1>Salut ! :wave:</h1>
+
+<h1>:wave: Salut !</h1>
 <p align="justify">Je m'appelle Caroline, jeune femme motivée qui s'est lancée dans le Développement Web depuis peu. J'ai suivi une formation de Mars 2021 à Juillet 2021 de Développeuse Web & Web Mobile à la Wild Code School de Lille, et depuis, je réalise mon stage à Tabuléo ! Et je travaille également en freelance pour la Compass Language School.
   
 Ici tu trouveras des repository d'apprentissages, testes et divers projets.
 Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
 
-<h2>⭐ Github stats :bar_chart:</h2>
+<h2>⭐ Some Github stats :bar_chart:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroD59&layout=compact&theme=aura&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroD59&theme=dark&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
