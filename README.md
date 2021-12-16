@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<h3>Frontend</h3>
+<h3>~ Frontend</h3>
 
 <p>
       <a href="https://getbootstrap.com" target="_blank">
@@ -44,7 +44,7 @@
   </a>
 </p>
 
-<h3>Backend</h3>
+<h3>~ Backend</h3>
 
 <p>
   <a href="https://nodejs.org" target="_blank"> 
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<h3>Database</h3>
+<h3>~ Database</h3>
 
 <p>
   <a href="https://www.mongodb.com/" target="_blank"> 
@@ -66,7 +66,7 @@
   </a> 
 </p>
 
-<h3>Version Control & CI/CD</h3>
+<h3>~ Version Control & CI/CD</h3>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
@@ -86,7 +86,7 @@
   </a>
 </p>
 
-<h3>Preferred IDEs  & Tools :</h3>
+<h3>~ Preferred IDEs  & Tools :</h3>
 
 <p> 
   <a href="https://code.visualstudio.com/" target="_blank">
