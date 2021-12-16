@@ -1,3 +1,6 @@
+![LJol_6EzoAwl3jIq6-4tw4xTsuuW1ZtfdDzQdoH1LFU](https://user-images.githubusercontent.com/76882345/146372766-bd655476-b4df-48c2-bf25-a25ef2b9bd24.gif)
+<h1>Salut !</h1>
+
 <h2>⭐ Github stats :bar_chart:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroD59&layout=compact&theme=aura&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
