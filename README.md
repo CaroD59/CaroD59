@@ -2,7 +2,7 @@
 
 
 <h1>:wave: Salut !</h1>
-<p align="justify">Je m'appelle Caroline, jeune femme motivée qui s'est lancée dans le Développement Web depuis peu. J'ai suivi une formation de Mars 2021 à Juillet 2021 de Développeuse Web & Web Mobile à la Wild Code School de Lille, et depuis, je réalise mon stage à Tabuléo ! Et je travaille également en freelance pour la Compass Language School.
+<p align="justify">Je m'appelle Caroline, jeune femme motivée qui s'est lancée dans le Développement Web depuis peu. J'ai suivi une formation de Mars 2021 à Juillet 2021 de Développeuse Web & Web Mobile à la Wild Code School de Lille ! Je travaille en freelance pour la Compass Language School, et je réalise plusieurs petits projets, en équipe ou seule, afin de m'améliorer chaque jour.
   
 Ici tu trouveras des repository d'apprentissages, testes et divers projets.
 Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
