@@ -93,7 +93,7 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
   <h3>~ Office</h3>
 
 <p>
-<img src"https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
