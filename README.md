@@ -69,6 +69,8 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
       alt="express" />
   </a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  ![phpmyadmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Wamp](https://img.shields.io/badge/wampserver-FB7A24?style=for-the-badge&logo=wampserver&logoColor=000000)
 </p>
 
 <h3>~ Database</h3>
