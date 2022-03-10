@@ -68,6 +68,7 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
   </a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 <h3>~ Database</h3>
