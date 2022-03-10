@@ -74,10 +74,6 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
 <h3>~ Database</h3>
 
 <p>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
     <img src="https://img.shields.io/badge/wampserver-FB7A24?style=for-the-badge&logo=wampserver&logoColor=000000" />
