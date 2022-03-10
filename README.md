@@ -69,8 +69,6 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
       alt="express" />
   </a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/wampserver-FB7A24?style=for-the-badge&logo=wampserver&logoColor=000000" />
 </p>
 
 <h3>~ Database</h3>
@@ -81,6 +79,8 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
       alt="mongodb"/> 
   </a> 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+    <img src="https://img.shields.io/badge/wampserver-FB7A24?style=for-the-badge&logo=wampserver&logoColor=000000" />
 </p>
 
 <h3>~ Design</h3>
