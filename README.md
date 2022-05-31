@@ -2,7 +2,7 @@
 
 
 <h1>:wave: Salut !</h1>
-<p align="justify">Je m'appelle Caroline, jeune femme motivée qui s'est lancée dans le Développement Web depuis peu. J'ai suivi une formation de Mars 2021 à Juillet 2021 de Développeur Web & Web Mobile à la Wild Code School de Lille ! Et actuellement, je suis une formation de Concepteur Développeur d'Applications à la SOFIP de Douai. Je travaille en freelance pour la <a href="https://github.com/compass-language-school">Compass Education Limited</a>, et je réalise plusieurs petits projets en méthode Agile / Scrum, en équipe ou seule, afin de m'améliorer chaque jour.
+<p align="justify">Je m'appelle Caroline, jeune femme motivée qui s'est lancée dans le Développement Web depuis peu. J'ai suivi une formation de Mars 2021 à Juillet 2021 de Développeur Web & Web Mobile à la Wild Code School de Lille ! Et actuellement, je suis une formation de Concepteur Développeur d'Applications à la SOFIP de Douai. Je travaille en freelance pour la <a href="https://github.com/Compass-Education-Limited">Compass Education Limited</a>, et je réalise plusieurs petits projets en méthode Agile / Scrum, en équipe ou seule, afin de m'améliorer chaque jour.
   
 Ici tu trouveras des repository d'apprentissages, testes et divers projets.
 Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
