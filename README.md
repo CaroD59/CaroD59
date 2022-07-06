@@ -116,6 +116,18 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
   </div>
 </div>
 
+
+
+<h3 align="center">Contact me</h3>
+
+<div style="margin-top:10px" align="center">
+  <div>
+    <a href="mailto:dorchies.c@gmail.com" target="_blank">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+</div>
+
 ----
 
 <h4 align="center">Visitor's count :eyes:</h4>
