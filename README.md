@@ -13,8 +13,6 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
 
 [![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroD59&theme=dark&show_icons=true)](https://github.com/CaroD59/github-readme-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CaroD59&theme=dark">
-
 <h2><u><b>⭐ My Knowledges</b></u></h2>
 
 <h3>~ Languages</h3>
